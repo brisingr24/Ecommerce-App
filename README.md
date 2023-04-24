@@ -1,4 +1,4 @@
-# my_prac_project_4
+# Flutter Ecommerce Shoe App
 
 A new Flutter project.
 
